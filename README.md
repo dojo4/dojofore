@@ -12,7 +12,7 @@
 
 ### The Font ###
 
-_Released under [Creative Commons Attribution-Sharealike 3.0](http://creativecommons.org/licenses/by-sa/3.0/)_
+_Handy. Under development. Released under [Creative Commons Attribution-Sharealike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license._
 
 <img src="/dojo4/dojofore/raw/master/the_font/the_font.png" />
           
